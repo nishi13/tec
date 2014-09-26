@@ -1,0 +1,17 @@
+download sublime:
+http://www.sublimetext.com/3
+
+instale o packege control, para isso entre no seguinte site e siga as intrucoes:
+https://sublime.wbond.net/installation
+
+depois de terminar de instalar siga as instrucoes:
+1-aperte ctrl+shift+P para abrir os Commandos
+2-digite install, deverá aparecer uma opcao 'Package Control: Install Packege'
+3-aperte enter
+4-digite o nome do pacote que deseja instalar
+5-Selecione o pacote e aperte enter
+
+siga essas instrucoes para os seguitnes pacotes:
+-Anaconda
+-Djaneiro
+-Emmet
