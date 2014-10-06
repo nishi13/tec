@@ -4,14 +4,29 @@ http://www.sublimetext.com/3
 instale o packege control, para isso entre no seguinte site e siga as intrucoes:
 https://sublime.wbond.net/installation
 
-depois de terminar de instalar siga as instrucoes:
+siga seguintes instrucoes para os seguitnes pacotes:
+-Anaconda
+-Djaneiro
+-Emmet
+
 1-aperte ctrl+shift+P para abrir os Commandos
 2-digite install, deverá aparecer uma opcao 'Package Control: Install Packege'
 3-aperte enter
 4-digite o nome do pacote que deseja instalar
 5-Selecione o pacote e aperte enter
 
-siga essas instrucoes para os seguitnes pacotes:
--Anaconda
--Djaneiro
--Emmet
+configuracoes uteis:
+  "tab_size": 2,
+  "translate_tabs_to_spaces": true,
+  "trim_automatic_white_space": true,
+  "trim_trailing_white_space_on_save": true
+  "ensure_newline_at_eof_on_save": true,\
+  "folder_exclude_patterns":
+  [
+    ".svn",
+    ".git",
+  ],
+
+comandos uteis
+
+ctrl+shit+up ou no mac ctrl+cmd+up

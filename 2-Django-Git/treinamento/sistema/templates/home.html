@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>ola</title>
+</head>
+<body>
+  <h1>Bem Vindo ao teste</h1>
+  <ul>
+    {% for todo in todo_list %}
+      <li>{{todo.tarefa}}</li>
+    {% endfor %}
+  </ul>
+  <form action="" method="POST"> {% csrf_token %}
+    {{todo_form.as_table}}
+    <input type="submit">
+  </form>
+</body>
+</html>
