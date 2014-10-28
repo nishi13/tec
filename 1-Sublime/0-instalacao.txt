@@ -15,18 +15,15 @@ siga seguintes instrucoes para os seguitnes pacotes:
 4-digite o nome do pacote que deseja instalar
 5-Selecione o pacote e aperte enter
 
-configuracoes uteis:
-  "tab_size": 2,
+Entre em Preferences>Settings-User (muitas dessas configurações são boas pra qualquer linguagem, mas eh possivel ter configurações especificas para linguagens diferentes):
+  "auto_complete_commit_on_tab":true
+  "tab_size": 4,
   "translate_tabs_to_spaces": true,
   "trim_automatic_white_space": true,
   "trim_trailing_white_space_on_save": true
-  "ensure_newline_at_eof_on_save": true,\
+  "ensure_newline_at_eof_on_save": true,
   "folder_exclude_patterns":
   [
     ".svn",
-    ".git",
+    ".git"
   ],
-
-comandos uteis
-
-ctrl+shit+up ou no mac ctrl+cmd+up

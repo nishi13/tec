@@ -1,0 +1,15 @@
+javascript basico;
+
+var palavra = '';
+var obj = {};
+var arr = [];
+console.log();
+event listeners
+
+O que é jquery?
+Uma biblioteca em java script;
+
+Porque agente usa?
+Facilitar a vida, não é necessário, muita gente sabe usar jquery mas nao sabe JS
+
+event liteners com jquery;

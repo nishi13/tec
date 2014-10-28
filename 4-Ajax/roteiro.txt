@@ -1,0 +1,5 @@
+Promises
+
+$.ajax()
+
+como receber essa info e como mandar uma resposta em JSON

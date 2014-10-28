@@ -1,0 +1,10 @@
+O sublime possui várias feramenta intereçantes, que podem ser dividas em 2 categorias commandos e plugins.
+Primeiramente vamos ver alguns comandos e atalhos uteis:
+//não sei como os atalhos são no Macm, mas provavelmente os ctrls viram cmd
+
+ctrl+shift+up ou no mac ctrl+cmd+up //muda uma linha para cime ou para baixo dependo da seta
+ctrl+d //adiona um curso a proxima palavra igual
+ctrl+shift+l //que a seleção atual em varios seletores no final da pagina
+ctrl+p //open file
+ctrl+shift+p //open project
+ctrl+r //find function

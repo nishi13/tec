@@ -1,0 +1,37 @@
+2-emmet) !>(.header>img#logo+.nav>a*4)+(.main>h1+h3+p+ul>li*4)+.footer(h5+a)
+
+3-Anaconda)
+from random import randint
+
+
+print (randint)
+
+4-Dajneiro)
+from datetime import date
+
+class User(models.Model):
+    nome = models.CharField(max_length=50)
+    sobrenome = models.CharField(max_length=50)
+    email = models.EmailField()
+    nascimento = models.DateField()
+    @property
+    def idade(self):
+        today = date.today()
+        return today.year - self.nascimento.year - (today.month*100 + today.day < self.nascimento.month*100 + self.nascimento.day)
+
+    class Meta:
+        verbose_name = "User"
+        verbose_name_plural = "Users"
+
+    def __unicode__(self):
+        pass
+
+class UserForm(forms.ModelForm):
+    class Meta:
+        model = User
+
+class FORMNAME(forms.Form):
+    nome = forms.CharField()
+    sobrenome = forms.CharField()
+    email = forms.EmailField()
+    nascimento = forms.DateField()

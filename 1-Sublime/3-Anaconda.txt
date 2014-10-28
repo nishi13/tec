@@ -1,0 +1,8 @@
+Primeiramente set o arquivo como python ou python Django
+para isso aperte crt+shift+p, digite 'python' e escolha a opcao
+Set Syntax: Python
+ou
+Set Syntax: Python Django  //para isso vcs podem digitar pythondjango ou menos como pyd
+
+Desafio, escrevam um arquivo que imprima um numero aleatório e que passe no lint do Anaconda
+Desafio 2, faco o proximo desafio paassar no lint do Anaconda

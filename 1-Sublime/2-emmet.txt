@@ -1,0 +1,48 @@
+Primeiramente set o arquivo como html ou html(Django),
+para isso aperte crt+shift+p, digite html e escolha a opcao
+Set Syntax: HTML
+ou
+Set Syntax: HTML (Django)  //para isso vcs podem digitar htmldjango ou menos como htd
+
+depois tentem a digitar os seguintes codigos e apertar tab apos cada um:
+
+!
+.ola
+ul>li*4
+.oi>(ul>li*4)+.main>h1+h3+p
+
+Desafio, criar o seguinte codigo com apenas uma linha:
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+  </head>
+  <body>
+    <div class="header">
+      <img src="" alt="" id="logo">
+      <div class="nav">
+        <a href=""></a>
+        <a href=""></a>
+        <a href=""></a>
+        <a href=""></a>
+      </div>
+    </div>
+    <div class="main">
+      <h1></h1>
+      <h3></h3>
+      <p></p>
+      <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+      </ul>
+    </div>
+    <div class="footer">
+      <h5></h5>
+      <a href=""></a>
+    </div>
+  </body>
+</html>

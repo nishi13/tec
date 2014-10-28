@@ -1,0 +1,20 @@
+Primeiramente set o arquivo como python ou python Django
+para isso aperte crt+shift+p, digite 'python' e escolha a opcao
+Set Syntax: Python
+ou
+Set Syntax: Python Django  //para isso vcs podem digitar pythondjango ou menos como pyd
+
+//o djaneiro eh muito parecido com o emmet
+depois tentem a digitar os seguintes codigos e apertar tab apos cada um:
+
+mint
+mchar
+Model
+fint
+fchar
+ffi
+Form
+ModelForm
+
+Desafio, criar um model, modelForm e um form (como se nao tivesse nada a ver XD)
+para usuario (nome, sobrenome, email, idade e data de nascimento), apenas usando os atalhos:
