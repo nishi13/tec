@@ -1,0 +1,16 @@
+O que é um aplicação responsiva??
+Basicamente é um aplição onde o conteúdo muda em relação ao tamanho de tela e tipo de dispositivo
+
+Como tornar uma aplicação responsiva?
+Basicamente há 2 passos,
+Primeiro usar todos os tamanhos de largura em porcentagem mas manter os valores de espaçamento
+(na maioria dos casos) em valores fixos, pois se deixarmos a margem em porcentagem ela ficará
+muito grande numa tela de resolução alta e basicamente não existirá num celular.
+Segundo Utilizar de CSS que de estilos diferentes para diferentes resoluções
+
+Desafio) Fazer com que a tela fique responsiva com as seguinte regras
+
+1024 - continua com 4 por linha porém os tamanhos devem ser relativos a largura e adiciona uma margem de 20px para cada lado
+720 - quebra para 3 fotos por linha
+530 - quebra para 2 fotos por linha
+480 - quebra para 1 foto por linha

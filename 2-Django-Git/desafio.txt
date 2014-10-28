@@ -1,2 +1,2 @@
-1- Configurar Template
-2- Configurar Model e Form
+1- Configurar Template e Settings seguindo https://docs.djangoproject.com/en/1.7/howto/static-files/
+2- Configurar Model e Form seguindo o diagrama de Classes
