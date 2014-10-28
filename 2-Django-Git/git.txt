@@ -8,3 +8,4 @@ git commit -m 'texto'
 git cia
 git push
 git pull
+auihsduiasd
