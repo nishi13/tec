@@ -10,6 +10,9 @@ O que é jquery?
 Uma biblioteca em java script;
 
 Porque agente usa?
-Facilitar a vida, não é necessário, muita gente sabe usar jquery mas nao sabe JS
+Facilitar a vida, não é necessário, mas muita gente acaba sendo pedendente de Jquery e não sabe usr JS
 
-event liteners com jquery;
+O que são event listeners?
+Funções que são executadas quando o usúario faz determinada ação;
+
+Desafio - Fazer o template de respostas, ao clickar esconder uma pergunta e ir para a proxima

@@ -2,4 +2,6 @@ Promises
 
 $.ajax()
 
-como receber essa info e como mandar uma resposta em JSON
+Como receber essa info e como mandar uma resposta em JSON?
+
+Desafio - Fazer a cada resposta uma requisição no servidor para salvar a resposta do usúario
