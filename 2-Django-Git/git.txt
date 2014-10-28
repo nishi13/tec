@@ -1,0 +1,10 @@
+git status //ver modificações
+git add
+git add .
+git add -A
+git reset
+git commit
+git commit -m 'texto'
+git cia
+git push
+git pull
